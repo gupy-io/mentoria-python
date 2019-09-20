@@ -1,6 +1,6 @@
 ##  Calendario do Mês 10/2019
-* Foi definido que serão 2 mentorias na 1º e 3º quarta-feira do mês serão DOJOS
-* Foi definido que serão 2 mentorias (conversas/palestras) na 2º e 4º quarta-feira do mês
+* Nas 1ª e 3ª quartas-feiras do mês as mentorias serão DOJOS
+* Nas 2ª e 4ª quartas-feiras do mês as mentorias serão conversas/palestras
 
 ##### Quarta-feira,  2, 16 e 30 de Outubro.
 > Tema : Escolher o problema para o DOJO - 2 de outubro
@@ -17,8 +17,8 @@
 # Submeter um tema para uma palestra
 
 ## Quem pode submeter um tema para  uma palestra?
-As palestras podem ser feitas remotas e qualquer pessoa desenvolvedora pode submeter um tema para apresentar remotamente ou presencial na gupy.
+As palestras podem ser feitas remotas e qualquer pessoa desenvolvedora pode submeter um tema para apresentar remotamente ou presencialmente na gupy.
 
 ## Como submeter um tema?
-Você pode abrir uma ISSUE neste repositório com o  Tema e uma breve descrição  e algum meio para contato.
+Você precisa abrir uma issue neste repositório com uma breve descrição do tema e algum meio para contato.
 
