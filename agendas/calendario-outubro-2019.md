@@ -4,10 +4,14 @@
 
 ##### Quarta-feira,  2, 16 e 30 de Outubro.
 > Tema : Escolher o problema para o DOJO - 2 de outubro
+
 > Tema : Escolher o problema para o DOJO - 16 de outubro
+
 > Tema : Escolher o problema para o DOJO - 30 de outubro
+
 ##### Quarta-feira,  09 e 23 de Outubro.
 > Tema da palestra: Definir
+
 > Tema da palestra: Definir
 
 # Submeter um tema para uma palestra
