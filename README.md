@@ -20,7 +20,7 @@ Para você fazer sugestão de tema você precisa apenas abrir uma issue neste re
 
 # Quer dar uma mentoria de python?
 ## Quem pode submeter um tema para  uma palestra?
-As palestras podem ser feitas remotas e qualquer pessoa desenvolvedora pode submeter um tema para apresentar remotamente ou presencial na gupy.
+As palestras podem ser feitas remotamente ou presencialmente e qualquer pessoa desenvolvedora pode submeter um tema para apresentar na Gupy.
 
 ## Como submeter um tema?
 Você pode abrir uma ISSUE neste repositório com o  Tema e uma breve descrição  e algum meio para contato.
