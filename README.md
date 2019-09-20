@@ -1,6 +1,6 @@
 # Mentoria Python Gupy
 
-Este repositório é será utilizado para documentar as mentorias de python e dojos feito
+Este repositório é utilizado para documentar as mentorias de python e dojos feitos
 na gupy, para ajudar no desenvolvimento das pessoas desenvolvedoras e contribuir com a
 comunidade com pequenos códigos e talks.
 
