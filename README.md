@@ -4,6 +4,11 @@ Este repositório é será utilizado para documentar as mentorias de python e do
 na gupy, para ajudar no desenvolvimento das pessoas desenvolvedoras e contribuir com a
 comunidade com pequenos códigos e talks.
 
+## Estrutura das pastas.
+
+Na pasta [palestras-conversas](palestras-conversas/) será colocado e documentado as mentorias de palestras/conversas.
+Na pasta [dojo](dojos/) será colocado nossos códigos feitos nos dojos.
+
 ## Datas para mentoria.
 
 Quais são as proximas mentorias.
@@ -13,9 +18,7 @@ Quais são as proximas mentorias.
 
 Para você fazer sugestão de tema você precisa apenas abrir uma issue neste repositório.
 
-
 # Quer dar uma mentoria de python?
-
 ## Quem pode submeter um tema para  uma palestra?
 As palestras podem ser feitas remotas e qualquer pessoa desenvolvedora pode submeter um tema para apresentar remotamente ou presencial na gupy.
 
