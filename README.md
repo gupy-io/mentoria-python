@@ -12,7 +12,7 @@ Na pasta [dojo](dojos/) será colocado nossos códigos feitos nos dojos.
 ## Datas para mentoria.
 
 Quais são as proximas mentorias.
-[Calendŕio de outubro de 2019](agendas/calendario-outubro-2019.md)
+[Calendário de outubro de 2019](agendas/calendario-outubro-2019.md)
 
 ## Como fazer sugestão de tema para mentoria?
 
