@@ -10,8 +10,8 @@
 > Tema : Escolher o problema para o DOJO - 30 de outubro
 
 ##### Quarta-feira,  09 e 23 de Outubro.
-> Tema da palestra: Definir
 
+- [ ] Tema da palestra: Como me tornar sênior em Python. https://github.com/gupy-io/mentoria-python/issues/2 ( A issue será fecha quando acontecer a palestra )
 > Tema da palestra: Definir
 
 # Submeter um tema para uma palestra
