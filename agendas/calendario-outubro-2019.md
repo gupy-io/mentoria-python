@@ -3,7 +3,8 @@
 * Nas 2ª e 4ª quartas-feiras do mês as mentorias serão conversas/palestras
 
 ##### Quarta-feira,  2, 16 e 30 de Outubro.
-> Tema : Escolher o problema para o DOJO - 2 de outubro
+> Tema : DOJO - 2 de outubro http://dojopuzzles.com/problemas/exibe/anagramas
+> Solução: [link](../dojo/anagrama/)
 
 > Tema : Escolher o problema para o DOJO - 16 de outubro
 
