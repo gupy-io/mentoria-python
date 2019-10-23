@@ -2,18 +2,15 @@
 * Nas 1ª e 3ª quartas-feiras do mês as mentorias serão DOJOS
 * Nas 2ª e 4ª quartas-feiras do mês as mentorias serão conversas/palestras
 
-##### Quarta-feira,  2, 16 e 30 de Outubro.
+##### Calendario.
 > Tema : DOJO - 2 de outubro http://dojopuzzles.com/problemas/exibe/anagramas
 > Solução: [link](../dojo/anagrama/)
 
-> Tema : Escolher o problema para o DOJO - 16 de outubro
+> Tema : Mentoria de asyncio com Python - 17 de Outubro.
+> Link para o repositório:
 
-> Tema : Escolher o problema para o DOJO - 30 de outubro
+> Tema Palestra : Nesta apresentação será mostrado como o Machine Learning foi usado na criação de um preditor de churn. - 30 de outubro
 
-##### Quarta-feira,  09 e 23 de Outubro.
-> Tema da palestra: Definir
-
-> Tema da palestra: Definir
 
 # Submeter um tema para uma palestra
 
